@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+h1{
+    font-size:153.9%;
+}
+h2{
+    font-size:116%;
+}
+.clear{
+    clear:both;
+}
+ul{ 
+    float:left;
+     padding:10px 0;
+}
+ul li{
+    float:left;
+    padding-right:10px;
+}
+#formData{
+    clear:both;
+    margin:20px;
+}
+#formData table{
+    margin-top:10px;
+}
+table th{
+    background:#EEE;
+    padding:5px;
+}
+table td{
+    text-align:center;
+    padding:5px;
+    border:1px solid #EEE;
+}
